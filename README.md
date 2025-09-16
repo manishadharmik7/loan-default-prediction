@@ -47,17 +47,3 @@ End-to-End ML · EDA · Feature Engineering · Flask API · Streamlit · Docker 
 ✅ This repo demonstrates the full ML lifecycle:
 EDA → Model Training → Deployment → API + UI → Dockerization
 
-
-### 4. GitHub push (ready-to-copy commands)
-
-# Initialize repo
-git init
-git add .
-git commit -m "Initial commit - Loan Default Prediction App"
-
-# Add remote (replace with your repo link)
-git remote add origin https://github.com/manishadharmik7/loan-default-prediction.git
-
-# Push code
-git branch -M main
-git push -u origin main
