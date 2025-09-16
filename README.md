@@ -17,8 +17,6 @@ loan-default-prediction/
 │── README.md # Project guide
 
 
----
-
 ### ▶️ Running Locally
 
 #### 1️⃣ Flask API
@@ -41,8 +39,6 @@ docker build -t loan-default-app .
 
 # Run container
 docker run -p 5000:5000 loan-default-app
-🏷 Resume Keywords
-End-to-End ML · EDA · Feature Engineering · Flask API · Streamlit · Docker · MLOps Basics
 
 ✅ This repo demonstrates the full ML lifecycle:
 EDA → Model Training → Deployment → API + UI → Dockerization
